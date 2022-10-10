@@ -7,6 +7,7 @@ A Pool for DSA Codes - GFG, Codechef, LeetCode, HackerRank and CodeForces
 <br> 
 
 ## Features
+- Accepting Contributions for HactoberFest 2022.
 - Solution of DSA problems of various platforms like CodeChef, CodeForces, HackerRank, Geeksforgeeks, LeetCode etc.
 - Language Free Solution Pool
 - Love to Solve Problems of each level
